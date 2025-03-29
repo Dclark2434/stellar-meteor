@@ -8,7 +8,6 @@ The main goal was to program something with only light guidance and 0 AI or copi
 To play, clone the repository and ensure python and pygame are installed.
 ```
  sudo apt install python3
- sudo apt install python3-pip
  sudo apt install python3-pygame
 ```
 After cloning to a directory run main.py.
